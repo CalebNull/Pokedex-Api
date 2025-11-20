@@ -3,7 +3,7 @@ This application uses webscraping to create an API which stores the data of each
 All together it was built with Express JS, Node JS, Puppeteer, with React being the framework. 
 
 # Searching:
-The search bow utilizes a autocomplete component that helps the user from typing as much as possible.
+The search bar utilizes a autocomplete component that helps the user from typing as much as possible.
 It also helps if they forget the specific pokemon's name they are trying to search.
 
 ![PicodexVideo](https://github.com/user-attachments/assets/2b18a3f9-ef35-4d66-bd5a-4b706f2ed9ee)
